@@ -29,7 +29,7 @@ Source: Kaggle
 ## Running Locally
 
 Add PYTHONPATH variable for `~/.bash_profile ` for MacOS
-```export PYTHONPATH="/Users/nachiketh/Desktop/author-repo/Complete-MLOps-BootCamp/Packaging-ML-Model/packaging-ml-model:$PYTHONPATH"
+```export PYTHONPATH="/Users/username/Desktop/Projects/Packaging-ML-Model/packaging-ml-model:$PYTHONPATH"
 ```
 
 ## Virtual Environment
@@ -136,7 +136,7 @@ pip install .
 3. Also can be installed from git as well after pushing to github
 
 ```
-pip install git+https://github.com/manifoldailearning/prediction_model.git
+pip install git+https://github.com/UdayBhaskarDS/Packaging-ML-Process/predictive_modelling.git
 ```
 
 # Testing the Package Working
