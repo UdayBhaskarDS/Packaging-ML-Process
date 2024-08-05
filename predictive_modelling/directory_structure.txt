@@ -1,0 +1,59 @@
+Folder PATH listing for volume WIN-10-SSD
+Volume serial number is AA22-80CA
+C:.
+³   directory_structure.txt
+³   pipeline.py
+³   predict.py
+³   training_pipeline.py
+³   VERSION
+³   __init__.py
+³   
+ÃÄÄÄconfig
+³   ³   config.py
+³   ³   __init__.py
+³   ³   
+³   ÀÄÄÄ__pycache__
+³           config.cpython-39.pyc
+³           __init__.cpython-39.pyc
+³           
+ÃÄÄÄdatasets
+³       test.csv
+³       train.csv
+³       __init__.py
+³       
+ÃÄÄÄprocessing
+³   ³   data_handling.py
+³   ³   pre_processing.py
+³   ³   __init__.py
+³   ³   
+³   ÀÄÄÄ__pycache__
+³           data_handling.cpython-39.pyc
+³           pre_processing.cpython-39.pyc
+³           __init__.cpython-39.pyc
+³           
+ÃÄÄÄtests
+³   ³   pytest.ini
+³   ³   test_prediction.py
+³   ³   
+³   ÃÄÄÄ.pytest_cache
+³   ³   ³   .gitignore
+³   ³   ³   CACHEDIR.TAG
+³   ³   ³   README.md
+³   ³   ³   
+³   ³   ÀÄÄÄv
+³   ³       ÀÄÄÄcache
+³   ³               lastfailed
+³   ³               nodeids
+³   ³               stepwise
+³   ³               
+³   ÀÄÄÄ__pycache__
+³           test_prediction.cpython-39-pytest-8.3.2.pyc
+³           
+ÃÄÄÄtrained_models
+³       classification.pkl
+³       __init__.py
+³       
+ÀÄÄÄ__pycache__
+        pipeline.cpython-39.pyc
+        __init__.cpython-39.pyc
+        
